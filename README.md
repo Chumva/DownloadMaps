@@ -1,1 +1,2 @@
-# DownloadMaps is a small project for downloading maps from OsmAnd
+# DownloadMaps
+is a small project for downloading maps from OsmAnd

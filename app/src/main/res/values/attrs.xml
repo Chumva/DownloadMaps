@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="size_progress_bar" format="reference"/>
+    <attr name="ctx_menu_info_divider" format="color"/>
+
+</resources>

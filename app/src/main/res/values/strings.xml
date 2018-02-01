@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Download maps</string>
+    <string name="xml_source_url">https://raw.githubusercontent.com/osmandapp/OsmAnd-resources/master/countries-info/regions.xml</string>
+    <string name="cancel_download">Cancel current download</string>
+    <string name="device_memory">Device memory</string>
+    <string name="free">Free </string>
+
+</resources>
